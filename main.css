@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+    color: #6f6f6f;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #009859;
+    font-size: 40px;
+}
+
+p {
+    font-size: 16px;
+}
+
+#benefits {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#benefits-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.benefits-strong-text {
+    display: block;
+    font-size: 75px;
+    color: #009859;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.fake-button {
+    padding: 13px 10px;
+    background-color: #009859;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.fake-button:hover {
+    color: blue;
+}
+
+#benefits {
+    background-color: #f1f3f4;
+}
+
+#offer-request-opportunity-again {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
